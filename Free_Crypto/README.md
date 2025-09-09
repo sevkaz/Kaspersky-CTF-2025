@@ -1,4 +1,5 @@
 Kaspersky CTF 
+
 Category: Crypto
 
-Writeup: sevcankazdag.com.tr
+Writeup: www.sevcankazdag.com.tr
